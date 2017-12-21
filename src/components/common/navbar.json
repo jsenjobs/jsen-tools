@@ -1,0 +1,60 @@
+{
+	"left":[
+		{
+			"name":"快捷功能",
+			"subs":[
+				{"name":"NIPS","href":"https://papers.nips.cc/","title":"神经信息处理系统大会(论文)"},
+				{"name":"PMLR","href":"http://proceedings.mlr.press/index.html","title":"Proceedings of Machine Learning Research"},
+				{"name":"CMSC","href":"http://www.cbcb.umd.edu/~hcorrada/PML/","title":"Proceedings of Machine Learning Research"},
+				{"name":"Wiki","href":"https://en.wikipedia.org/wiki/Main_Page"},
+				{"name":"百度翻译","href":"http://fanyi.baidu.com"}
+			]
+		},
+		{
+			"name":"前往主页",
+			"subs":[
+				{"name":"维基","href":"https://en.wikipedia.org/wiki/Main_Page"},
+				{"name":"百度","href":"http://www.baidu.com"},
+				{"name":"好搜","href":"https://www.so.com"},
+				{"name":"搜狗","href":"https://www.sogou.com"},
+				{"name":"淘宝","href":"https://taobao.com"}
+			]
+		},
+		{
+			"name":"机器学习",
+			"subs":[
+				{"name":"Kaggle","href":"https://www.kaggle.com"},
+				{"name":"UCI","href":"http://archive.ics.uci.edu/ml/index.php"}
+			]
+		},
+		{
+			"name":"Kaggle",
+			"href":"https://www.kaggle.com"
+		},
+		{
+			"name":"UCI",
+			"href":"http://archive.ics.uci.edu/ml/index.php"
+		}
+	],
+	"right":{
+		"sli":[
+			{"name":"更多","href":"#","stat":"disabled"}
+		],
+		"dd":{
+			"name":"设置",
+			"stat":"disabled",
+			"sli":[
+				{"name":"Action","href":"#","role":"link"},
+				{"name":"Another action","href":"#","role":"link"},
+				{"name":"Something else here","href":"#","role":"link"},
+				{"role":"separator"},
+				{"name":"Separated link","href":"#","role":"link"}
+			]
+		},
+		"form":{
+			"button":"搜索",
+			"holder":"查找",
+			"stat":"disabled"
+		}
+	}
+}

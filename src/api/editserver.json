@@ -1,0 +1,25 @@
+{
+    "upload":{
+      "_links":"http://119.23.238.170/filestorage/file/uploadEnc"
+    },
+    "download":{
+        "_links":"http://119.23.238.170/filestorage/file/downloadEnc"
+    },
+
+    "list":{
+        "_links":"http://119.23.238.170/simplefiletree/list"
+    },
+    "del":{
+        "_links":"http://119.23.238.170/simplefiletree/del"
+    },
+    "createDir":{
+        "_links":"http://119.23.238.170/simplefiletree/create/dir"
+    },
+    "createFile":{
+        "_links":"http://119.23.238.170/simplefiletree/create/file"
+    },
+    "updateFile":{
+        "_links":"http://119.23.238.170/simplefiletree/update/file"
+    }
+  
+  }

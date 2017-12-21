@@ -1,0 +1,29 @@
+{
+	"百度": {
+	  "hint": "https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su",
+	  "search": "https://www.baidu.com/s?wd=",
+	  "jsonp": "cb",
+	  "hS": "s",
+	  "kW": "wd"
+	},
+	"好搜": {
+	  "hint": "https://sug.so.360.cn/suggest",
+	  "search": "https://www.so.com/s?q=",
+	  "jsonp": "callback",
+	  "hS": "s",
+	  "kW": "word"
+	},
+	"搜狗": {
+	  "hint": "https://www.sogou.com/suggnew/ajajjson",
+	  "search": "https://www.sogou.com/web?query=",
+	  "params": {"type": "web"},
+	  "jsonp": "ipn",
+	  "kW": "key"
+	},
+	"淘宝": {
+	  "hint": "https://suggest.taobao.com/sug",
+	  "search": "https://s.taobao.com/search?q=",
+	  "jsonp": "callback",
+	  "kW": "q"
+	}
+}

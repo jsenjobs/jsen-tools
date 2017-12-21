@@ -1,0 +1,53 @@
+{
+  "register":{
+    "_links":"/register",
+    "des":"注册用户",
+    "method":"POST",
+    "params":[
+      {"name":"username", "type":"string","des":"用户名"},
+      {"name":"password", "type":"string","des":"密码"},
+      {"name":"type", "type":"string","des":"用户名类型 pn email other"}
+    ]
+  },
+  "login":{
+    "_links":"http://119.23.238.170/sys_user/user/login",
+    "des":"注册登入",
+    "method":"POST",
+    "params":[
+      {"name":"username", "type":"string","des":"用户名"},
+      {"name":"password", "type":"string","des":"密码"}
+    ]
+  },
+  "logout":{
+    "_links":"http://119.23.238.170/sys_user/user/logout",
+    "des":"登出",
+    "method":"POST",
+    "headers":[
+      {"name":"authorization", "type":"string","des":"用户登入时返回的tokenid"}
+    ]
+  },
+  "update":{
+    "_links":"/ol/update",
+    "des":"用户信息更改",
+    "method":"POST",
+    "headers":[
+      {"name":"authorization", "type":"string","des":"用户登入时返回的tokenid"}
+    ],
+    "params":[
+      {"name":"usernameO", "type":"string","des":"原用户名"},
+      {"name":"password0", "type":"string","des":"原密码"},
+      {"name":"username", "type":"string","des":"新用户名"},
+      {"name":"password", "type":"string","des":"新密码"},
+      {"name":"email", "type":"string","des":"新邮箱"},
+      {"name":"phonenumber", "type":"string","des":"新电话号码"}
+    ]
+  },
+  "appStatus":{
+    "_links":"/app/status",
+    "des":"服务器信息",
+    "method":"GET",
+    "params":[
+      {"name":"info", "type":"任意","des":"详细信息"}
+    ]
+  }
+}

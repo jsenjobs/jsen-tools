@@ -1,0 +1,47 @@
+{
+	"title":"快捷搜索",
+	"left":{
+		"sli":[
+			{"name":"NIPS","href":"https://papers.nips.cc/","title":"神经信息处理系统大会(论文)"},
+			{"name":"PMLR","href":"http://proceedings.mlr.press/index.html","title":"Proceedings of Machine Learning Research"},
+			{"name":"CMSC","href":"http://www.cbcb.umd.edu/~hcorrada/PML/","title":"Proceedings of Machine Learning Research"},
+			{"name":"Wiki","href":"https://en.wikipedia.org/wiki/Main_Page"},
+			{"name":"百度翻译","href":"http://fanyi.baidu.com"}
+		],
+		"dd":{
+			"name":"前往主页",
+			"sli":[
+				{"name":"维基","href":"https://en.wikipedia.org/wiki/Main_Page","role":"link"},
+				{"name":"百度","href":"http://www.baidu.com","role":"link"},
+				{"role":"separator"},
+				{"name":"好搜","href":"https://www.so.com","role":"link"},
+				{"name":"搜狗","href":"https://www.sogou.com","role":"link"},
+				{"role":"separator"},
+				{"name":"淘宝","href":"https://taobao.com","role":"link"},
+				{"role":"separator"},
+				{"name":"无","href":"#","role":"link"}
+			]
+		}
+	},
+	"right":{
+		"sli":[
+			{"name":"更多","href":"#","stat":"disabled"}
+		],
+		"dd":{
+			"name":"设置",
+			"stat":"disabled",
+			"sli":[
+				{"name":"Action","href":"#","role":"link"},
+				{"name":"Another action","href":"#","role":"link"},
+				{"name":"Something else here","href":"#","role":"link"},
+				{"role":"separator"},
+				{"name":"Separated link","href":"#","role":"link"}
+			]
+		},
+		"form":{
+			"button":"搜索",
+			"holder":"查找",
+			"stat":"disabled"
+		}
+	}
+}

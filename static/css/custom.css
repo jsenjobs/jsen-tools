@@ -1,0 +1,54 @@
+input[type="file"] {
+  display: none !important;
+}
+.el-upload--text {
+    width: 100% !important;
+    height: 120px !important;
+	border: none !important;
+}
+.el-upload-dragger {
+    background-color: #fff;
+    border: 1px dashed #d9d9d9;
+    border-radius: 6px;
+    width: 100% !important;
+    height: 120px !important;
+    text-align: center;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+}
+.el-upload--text .el-icon-upload {
+    font-size: 67px;
+    color: #97a8be;
+    margin: 20px 0 16px !important;
+    line-height: 50px;
+}
+
+html body{
+  color: #357;
+  font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

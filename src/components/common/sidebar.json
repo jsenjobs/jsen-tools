@@ -1,0 +1,80 @@
+[
+  {
+    "icon": "el-icon-menu",
+    "index": "/readme/main",
+    "title": "主页",
+    "display": "none"
+  },
+  {
+    "icon": "el-icon-setting",
+    "index": "2",
+    "title": "机器学习",
+    "display": "none",
+    "subs": [
+      {
+        "index": "/readme/ml",
+        "title": "论文收藏"
+      },
+      {
+        "index": "/readme/nav",
+        "title": "网站收藏"
+      },
+      {
+        "index": "/readme/tick",
+        "title": "数据下载"
+      },
+      {
+        "index": "/readme/lab",
+        "title": "实验室"
+      }
+    ]
+  },
+  {
+    "icon": "el-icon-edit",
+    "index": "3",
+    "title": "编辑",
+    "display": "none",
+    "subs": [
+      {
+        "index": "/tools/filelist",
+        "title": "文件列表"
+      },
+      {
+        "index": "/tools/edit",
+        "title": "测试编辑"
+      }
+    ]
+  },
+  {
+    "icon": "el-icon-upload",
+    "index": "4",
+    "title": "微服务相关",
+    "display": "none",
+    "subs": [
+      {
+        "index": "/readme/micro",
+        "title": "微服务模块"
+      },
+      {
+        "index": "/readme/microtemplate",
+        "title": "微服务模版"
+      },
+      {
+        "index": "http://aaa.bigfacewo.com:3390",
+        "title": "服务文档(请用Firefox)"
+      }
+    ]
+  },
+  {
+    "icon": "el-icon-star-on",
+    "index": "/readme/nav",
+    "title": "导航",
+    "display": "none"
+  },
+  {
+    "icon": "el-icon-upload2",
+    "index": "/readme/tick",
+    "title": "介绍",
+    "display": "none"
+  }
+]

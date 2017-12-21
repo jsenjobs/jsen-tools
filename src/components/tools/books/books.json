@@ -1,0 +1,35 @@
+{
+	"nips": [
+		{"name": "Advances in Neural Information Processing Systems 29 (NIPS 2016)", "href":"https://papers.nips.cc/book/advances-in-neural-information-processing-systems-29-2016"},
+		{"name": "Advances in Neural Information Processing Systems 28 (NIPS 2015)", "href":"https://papers.nips.cc/book/advances-in-neural-information-processing-systems-28-2015"},
+		{"name": "Advances in Neural Information Processing Systems 27 (NIPS 2014)", "href":"https://papers.nips.cc/book/advances-in-neural-information-processing-systems-27-2014"},
+		{"name": "Advances in Neural Information Processing Systems 26 (NIPS 2013)", "href":"https://papers.nips.cc/book/advances-in-neural-information-processing-systems-26-2013"},
+		{"name": "Advances in Neural Information Processing Systems 25 (NIPS 2012)", "href":"https://papers.nips.cc/book/advances-in-neural-information-processing-systems-25-2012"},
+		{"name": "Advances in Neural Information Processing Systems 24 (NIPS 2011)", "href":"https://papers.nips.cc/book/advances-in-neural-information-processing-systems-24-2011"},
+		{"name": "Advances in Neural Information Processing Systems 23 (NIPS 2010)", "href":"https://papers.nips.cc/book/advances-in-neural-information-processing-systems-23-2010"},
+		{"name": "Advances in Neural Information Processing Systems 22 (NIPS 2009)", "href":"https://papers.nips.cc/book/advances-in-neural-information-processing-systems-22-2009"},
+		{"name": "Advances in Neural Information Processing Systems 21 (NIPS 2008)", "href":"https://papers.nips.cc/book/advances-in-neural-information-processing-systems-21-2008"},
+		{"name": "Advances in Neural Information Processing Systems 20 (NIPS 2007)", "href":"https://papers.nips.cc/book/advances-in-neural-information-processing-systems-20-2007"},
+		{"name": "Advances in Neural Information Processing Systems 19 (NIPS 2006)", "href":"https://papers.nips.cc/book/advances-in-neural-information-processing-systems-19-2006"},
+		{"name": "Advances in Neural Information Processing Systems 18 (NIPS 2005)", "href":"https://papers.nips.cc/book/advances-in-neural-information-processing-systems-18-2005"},
+		{"name": "Advances in Neural Information Processing Systems 17 (NIPS 2004)", "href":"https://papers.nips.cc/book/advances-in-neural-information-processing-systems-17-2004"},
+		{"name": "Advances in Neural Information Processing Systems 16 (NIPS 2003)", "href":"https://papers.nips.cc/book/advances-in-neural-information-processing-systems-16-2003"},
+		{"name": "Advances in Neural Information Processing Systems 15 (NIPS 2002)", "href":"https://papers.nips.cc/book/advances-in-neural-information-processing-systems-15-2002"},
+		{"name": "Advances in Neural Information Processing Systems 14 (NIPS 2001)", "href":"https://papers.nips.cc/book/advances-in-neural-information-processing-systems-14-2001"},
+		{"name": "Advances in Neural Information Processing Systems 13 (NIPS 2000)", "href":"https://papers.nips.cc/book/advances-in-neural-information-processing-systems-13-2000"},
+		{"name": "Advances in Neural Information Processing Systems 12 (NIPS 1999)", "href":"https://papers.nips.cc/book/advances-in-neural-information-processing-systems-12-1999"},
+		{"name": "Advances in Neural Information Processing Systems 11 (NIPS 1998)", "href":"https://papers.nips.cc/book/advances-in-neural-information-processing-systems-11-1998"},
+		{"name": "Advances in Neural Information Processing Systems 10 (NIPS 1997)", "href":"https://papers.nips.cc/book/advances-in-neural-information-processing-systems-10-1997"},
+		{"name": "Advances in Neural Information Processing Systems 9 (NIPS 1996)", "href":"https://papers.nips.cc/book/advances-in-neural-information-processing-systems-9-1996"},
+		{"name": "Advances in Neural Information Processing Systems 8 (NIPS 1995)", "href":"https://papers.nips.cc/book/advances-in-neural-information-processing-systems-8-1995"},
+		{"name": "Advances in Neural Information Processing Systems 7 (NIPS 1994)", "href":"https://papers.nips.cc/book/advances-in-neural-information-processing-systems-7-1994"},
+		{"name": "Advances in Neural Information Processing Systems 6 (NIPS 1993)", "href":"https://papers.nips.cc/book/advances-in-neural-information-processing-systems-6-1993"},
+		{"name": "Advances in Neural Information Processing Systems 5 (NIPS 1992)", "href":"https://papers.nips.cc/book/advances-in-neural-information-processing-systems-5-1992"},
+		{"name": "Advances in Neural Information Processing Systems 4 (NIPS 1991)", "href":"https://papers.nips.cc/book/advances-in-neural-information-processing-systems-4-1991"},
+		{"name": "Advances in Neural Information Processing Systems 3 (NIPS 1990)", "href":"https://papers.nips.cc/book/advances-in-neural-information-processing-systems-3-1990"},
+		{"name": "Advances in Neural Information Processing Systems 2 (NIPS 1989)", "href":"https://papers.nips.cc/book/advances-in-neural-information-processing-systems-2-1989"},
+		{"name": "Advances in Neural Information Processing Systems 1 (NIPS 1988)", "href":"https://papers.nips.cc/book/advances-in-neural-information-processing-systems-1-1988"},
+		{"name": "Advances in Neural Information Processing Systems (NIPS 1987)", "href":"https://papers.nips.cc/book/advances-in-neural-information-processing-systems-1987"}
+	]
+
+}

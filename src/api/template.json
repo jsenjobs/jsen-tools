@@ -1,0 +1,25 @@
+{
+	"createnodetemplate":{
+    "_links":"http://59.110.168.95/templatedump/dump",
+    "des":"下载node模版",
+    "method":"POST",
+    "params":[
+      {"name":"templateType", "type":"string","des":"模版类型"},
+      {"name":"name", "type":"string","des":"项目名字"},
+      {"name":"port", "type":"string","des":"项目端口"},
+      {"name":"register_ip", "type":"string","des":"注册服务器ip"},
+      {"name":"address", "type":"string","des":"部署地址"},
+      
+      {"name":"mongo_address", "type":"string","des":"mongo地址"},
+      {"name":"mongo_database", "type":"string","des":"mongo数据库名字"},
+      {"name":"mysql_address", "type":"string","des":"mysql地址"},
+      {"name":"mysql_database", "type":"string","des":"mysql数据库名字"},
+      {"name":"redis_port", "type":"string","des":"redis端口"},
+      {"name":"redis_ip", "type":"string","des":"redis ip地址"},
+      {"name":"SessionTimeOut", "type":"string","des":"redis超时"},
+      {"name":"useMysql", "type":"string","des":"是否使用Mysql"},
+      {"name":"useMongo", "type":"string","des":"是否使用mongo"},
+      {"name":"useRedis", "type":"string","des":"是否使用redis"}
+    ]
+  }
+}

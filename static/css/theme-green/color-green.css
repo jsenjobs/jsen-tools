@@ -1,0 +1,53 @@
+.header{
+    background-color: #00d1b2;
+}
+.login-wrap{
+    background: #00d1b2;
+}
+.plugins-tips{
+    background: #f2f2f2;
+}
+.plugins-tips a{
+    color: #00d1b2;
+}
+.el-upload--text em {
+    color: #00d1b2;
+}
+.pure-button{
+    background: #00d1b2;
+}
+.vue-datasource .btn-primary {
+    color: #fff;
+    background-color: #00d1b2 !important;
+    border-color: #00d1b2 !important;
+}
+.pagination > .active > a, .pagination > .active > a:hover, .pagination > .active > a:focus, .pagination > .active > span, .pagination > .active > span:hover, .pagination > .active > span:focus {
+    background-color: #00d1b2 !important;
+    border-color: #00d1b2 !important;
+}
+
+.el-menu-item.is-active {
+    color: rgb(72, 106, 106) !important;
+}
+.el-menu--horizontal .el-submenu__title:hover {
+    background-color: #00c1a2 !important;
+}
+.menus > .el-menu > .el-menu-item:hover {
+    background-color: #00c1a2 !important;
+}
+.el-menu--horizontal .el-submenu>.el-menu {
+    background-color: #fff !important;
+    box-shadow: none !important;
+}
+.menus > .el-menu > .el-menu-item, .menus > .el-menu .el-submenu__title {
+    color: white !important;
+}
+.el-menu--horizontal .el-submenu .el-submenu__icon-arrow {
+    color: white !important;
+}
+.el-dropdown-menu {
+    box-shadow: none !important;
+}
+.el-menu--horizontal .el-submenu .el-submenu__title {
+    border-bottom: 0px !important;
+}

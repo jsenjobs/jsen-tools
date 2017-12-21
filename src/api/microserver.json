@@ -1,0 +1,9 @@
+{
+  "listMicroServer":{
+    "_links":"http://59.110.168.95/register/listMicroServer"
+  },
+  "listServerinfo":{
+    "_links":"http://59.110.168.95/register/listServerinfo"
+  }
+
+}
