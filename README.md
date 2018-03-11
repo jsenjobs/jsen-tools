@@ -1,6 +1,7 @@
 # jsen-tools
 
-> jsen admin
+> jsen tools
+一个基于Vue和EMUI的Web静态纯网页项目，主要用来学习一些网站技术。已实现Docker版本，还未上传源码。
 
 ## Build Setup
 
